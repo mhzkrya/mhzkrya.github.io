@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 7rem; /*--css unit wpu--> */
+  background-color: #d1caca;
+}
+#about {
+  background-color: #e6e3e3;
+}
+#projects {
+  background-color: #d1caca;
+}
+#contact {
+  background-color: #e6e3e3;
+}
+.footer {
+  background-color: #5f5d5d;
+  margin-bottom: -3rem;
+}
+section {
+  padding-top: 5rem;
+}
+.active,
+.btn:hover {
+  background-color: #5f5d5d;
+}
